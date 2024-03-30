@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Dixet" />
+        <Header title="Bixet" />
         <p className="アプリを開きます。">
           Get started by editing <code>pages/index.js</code>
         </p>
