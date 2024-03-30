@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bixet" />
         <p className="plane_text">
-          アプリを開いています。</code>
+          アプリを開いています。
         </p>
       </main>
 
