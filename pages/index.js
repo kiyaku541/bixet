@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Bixet" />
-        <p className="アプリを開きます。">
-          Get started by editing <code>pages/index.js</code>
+        <p className="plane_text">
+          アプリを開いています。</code>
         </p>
       </main>
 
